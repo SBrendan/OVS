@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "outDir": "./client/dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "allowJs": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true
+    },
+    "files": [
+        "./declarations.d.ts"
+    ],
+    "include": [
+        "./client/src/**/*"
+    ]
+}

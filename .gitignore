@@ -1,0 +1,12 @@
+gb*
+logs/*.log
+client/dist
+dist
+node_modules
+npm-debug.log
+debug
+vault-config.json
+coverage.xml
+report.xml
+test.xml
+**/*.DS_Store
